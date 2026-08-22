@@ -1,0 +1,14 @@
+On the seventeenth day of my internship, I focused on 
+conditional statements in Bash. I read the relevant sections 
+from the Linux book and learned how if, elif, and else
+statements are used to make decisions in shell scripts.
+
+I also studied basic test expressions and learned how files 
+and directories can be checked using conditions such as -f, -d, -r, -w, 
+and -x. Understanding these tests helped me see how Bash scripts can 
+make decisions depending on the current state of the system.
+
+After studying the theoretical information, I followed several
+examples from the book and reviewed Bash exercises on HackerRank. 
+I also continued taking notes about the syntax and structure of 
+conditional statements.
