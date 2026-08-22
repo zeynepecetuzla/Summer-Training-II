@@ -1,0 +1,15 @@
+On the sixth day of my internship, I continued studying the Linux operating system
+by focusing on the Linux file system. I read the related sections from the book 
+provided by my supervisor and learned more about the structure of the root directory 
+and the purpose of commonly used directories such as /home, /etc, /usr, /var, and /tmp.
+
+I also continued using the Ubuntu environment on my computer to examine different 
+directories and understand how they are organized. I practiced navigating through 
+the file system using commands such as pwd, ls, and cd. While working with these 
+directories, I reviewed the difference between absolute and relative paths that 
+I had learned previously.
+
+In addition to the book, I used Linux Journey as a supplementary resource to 
+reinforce the information about the Linux file system. This helped me understand 
+the organization of Linux directories more clearly and prepared me for the 
+following topics.
