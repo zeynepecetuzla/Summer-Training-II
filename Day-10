@@ -1,0 +1,17 @@
+On the tenth day of my internship, I started learning 
+about Linux file permissions. I read the related sections 
+from the Linux book and learned about the three basic 
+permission types: read, write, and execute. I also learned 
+that Linux permissions are defined separately for the file 
+owner, the group, and other users.
+
+I studied how to examine file permissions using the ls -l 
+command and learned how to interpret permission expressions 
+such as rwxr-xr--. I tried to understand what each character 
+represents and how permissions affect access to files 
+and directories.
+
+I also studied the basic usage of the chmod command. 
+The topic helped me understand an important part of
+Linux system security and showed me why controlling 
+access to files is necessary in a multi-user operating system.
