@@ -1,0 +1,16 @@
+On the fourteenth day of my internship, I focused on input, 
+output, pipes, and redirection in the Bash shell. I read the 
+relevant sections from the Linux book and learned about 
+standard input, standard output, and standard error.
+
+I studied commands such as echo and printf and learned how 
+output can be redirected to files using operators such as > and >>.
+I also learned how the pipe operator | can be used to send the 
+output of one command as the input of another command.
+
+To support my learning, I continued studying The Missing 
+Semester's Shell Tools and Scripting materials. I followed 
+the examples and tried to understand how pipes and 
+redirection can make command-line operations more efficient.
+I also continued solving Bandit challenges and tried to 
+use these concepts when they were useful.
