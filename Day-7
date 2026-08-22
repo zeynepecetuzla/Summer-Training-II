@@ -1,0 +1,19 @@
+On the seventh day of my internship, I focused on file and 
+directory management in Linux. I continued reading the 
+relevant sections of the Linux book and studied commands 
+such as cp, mv, rm, and rmdir. I learned how files and 
+directories can be copied, moved, renamed, and deleted
+using the terminal.
+
+I also studied different ways of viewing file contents. 
+I reviewed the cat command and learned about commands 
+such as less, head, and tail. I practiced using these 
+commands in my Ubuntu environment while following the 
+examples from the book.
+
+After studying these topics, I continued solving 
+beginner-level exercises on HackerRank. I tried 
+to solve the problems by using the Linux commands 
+that I had learned instead of directly looking at 
+solutions. This helped me improve my understanding 
+of how the commands can be used together.
