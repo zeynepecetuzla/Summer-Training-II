@@ -1,0 +1,16 @@
+On the eleventh day of my internship, I continued studying 
+Linux permissions and ownership. I read additional sections 
+from the Linux book about file ownership and groups. I learned 
+about the relationship between users, groups, and files and 
+studied the basic purpose of commands such as chown and chgrp.
+
+I continued examining file permissions with the ls -l command 
+and compared different permission settings. I also reviewed 
+the concepts of read, write, and execute permissions to make 
+sure I understood how they affect different users.
+
+After completing the reading, I continued working on the Bandit
+challenges. I tried to pay attention to file permissions and 
+ownership information while solving the challenges. This gave 
+me a better understanding of why permissions are important 
+when working with Linux systems.
