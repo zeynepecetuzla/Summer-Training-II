@@ -1,0 +1,17 @@
+On the thirteenth day of my internship, I continued 
+studying Bash scripting and focused on variables and 
+environment variables. I read the relevant sections
+from the Linux book and learned how values can be 
+stored and accessed in Bash.
+
+I examined commonly used environment variables such as 
+$HOME, $USER, $PATH, and $PWD. I also reviewed the PATH 
+concept that I had learned at the beginning of my Linux
+studies and understood its relationship with the commands 
+that can be executed from the terminal.
+
+I used the examples from the book to follow how variables
+are used in shell commands and scripts. I also continued 
+working on HackerRank exercises related to Linux and Bash.
+These exercises helped me reinforce the concepts I had 
+learned and become more familiar with shell syntax.
