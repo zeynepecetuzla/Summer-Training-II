@@ -1,0 +1,15 @@
+On the eighteenth day of my internship, I continued learning 
+Bash scripting and focused on loops. I read about for and 
+while loops from the Linux book and studied how loops can 
+be used when the same operation needs to be performed multiple times.
+
+I also learned about the break and continue statements and 
+their basic purposes inside loops. I followed the examples 
+provided in the book and compared the different situations 
+in which for and while loops can be used.
+
+Later in the day, I continued solving OverTheWire Bandit
+challenges. I tried to approach the challenges by using 
+the commands and concepts I had already learned instead 
+of immediately searching for solutions. This helped me 
+improve my problem-solving skills in the Linux environment.
