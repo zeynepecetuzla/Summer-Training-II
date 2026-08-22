@@ -1,0 +1,16 @@
+On the sixteenth day of my internship, I continued working 
+on Linux and started focusing more on Bash scripting. 
+I reviewed the Bash-related sections of the Linux book
+provided by my supervisor and revisited the basic structure
+of shell scripts. I studied variables and learned how values 
+can be stored and accessed in Bash scripts.
+
+I also reviewed commonly used environment variables such as
+$HOME, $USER, and $PATH. Since I had previously learned about
+the PATH variable, I tried to understand its role in more detail
+and how it affects the commands that can be executed from the terminal.
+
+In addition to the book, I continued studying the Shell Tools
+and Scripting materials from The Missing Semester. I also continued
+working on the OverTheWire Bandit challenges to reinforce
+the Linux commands I had learned.
