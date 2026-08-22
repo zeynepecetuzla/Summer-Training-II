@@ -1,0 +1,17 @@
+On the twelfth day of my internship, I started learning 
+more about the Bash shell and shell scripting. I read 
+the introductory Bash sections from the Linux book and 
+learned what a shell script is and why scripts are useful
+for automating repetitive tasks.
+
+I learned about the basic structure of a Bash script and 
+the purpose of the shebang line, such as #!/bin/bash. 
+I also studied how Bash scripts can be executed from 
+the terminal and how executable permissions are related 
+to running scripts.
+
+In addition to the book, I started watching the Shell Tools 
+and Scripting materials from The Missing Semester. 
+These resources helped me understand the relationship 
+between the commands I had been using in the terminal 
+and the scripts that can be created using those commands.
