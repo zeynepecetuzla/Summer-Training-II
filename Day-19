@@ -1,0 +1,15 @@
+On the nineteenth day of my internship, I continued 
+studying Bash scripting by focusing on functions and 
+command-line arguments. I read the related sections
+from the Linux book and learned how functions can be 
+used to organize commands and avoid repeating the same code.
+
+I also studied positional parameters such as $1, $2, and $@. 
+I learned that these variables can be used to access arguments 
+passed to a Bash script. This helped me understand how scripts
+can receive information from the user when they are executed.
+
+I continued watching supplementary Shell Scripting materials
+and reviewed the examples from the book. At the end of the day, 
+I organized my notes about variables, conditions, loops, 
+functions, and arguments.
