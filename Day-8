@@ -1,0 +1,18 @@
+On the eighth day of my internship, I started studying 
+Linux commands that are used to search for files and 
+information. I read the related sections from the Linux 
+book and learned about commands such as find, grep, which,
+and whereis. I focused on understanding the differences 
+between these commands and the situations in which they 
+can be useful.
+
+I also learned how grep can be used to search for specific 
+text inside files. In addition, I studied the man command, 
+which can be used to access the manual pages of Linux commands. 
+I found this useful because it allows users to learn more about 
+a command directly from the terminal.
+
+I continued practicing these topics while working on the OverTheWire
+Bandit challenges. Some of the challenges required finding specific 
+files or information, so I tried to apply the commands I had learned 
+from the book while solving them.
