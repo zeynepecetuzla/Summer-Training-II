@@ -1,0 +1,15 @@
+On the twenty-first day of my internship, I started studying processes in Linux. 
+I read the relevant sections from the Linux book and learned what a process 
+is and how programs are executed by the operating system.
+
+I learned about process IDs, also known as PIDs, and the 
+relationship between parent and child processes. I also
+studied the ps command and learned how it can be used to 
+view information about running processes. In addition,
+I looked at the top command to understand how system 
+resources and running processes can be monitored.
+
+This topic helped me understand what happens in the 
+background when commands and programs are executed in Linux.
+I also reviewed the related sections of the Linux 
+documentation to reinforce the information from the book.
