@@ -1,0 +1,16 @@
+On the twenty-third day of my internship, I continued learning 
+about the Linux environment and focused on environment variables 
+and configuration files. I reviewed the $PATH, $HOME, $USER, 
+and $PWD variables and studied how environment variables 
+are used by the shell.
+
+I also read about files such as .bashrc and .profile. 
+I learned that these configuration files can contain 
+commands and settings that are loaded when a shell 
+session starts. I examined the contents of my .bashrc 
+file to better understand how the Bash environment 
+can be customized.
+
+This helped me connect the concepts I had previously
+learned about Bash and environment variables with 
+the configuration of an actual Linux user environment.
