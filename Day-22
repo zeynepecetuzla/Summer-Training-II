@@ -1,0 +1,14 @@
+On the twenty-second day of my internship, I continued studying 
+Linux process management. I learned how processes can run in
+the foreground and background and studied commands such as jobs,
+bg, and fg.
+
+I also learned about the kill command and how signals can be 
+sent to processes. I studied the basic purpose of commands
+such as kill and pkill and learned why process management 
+is important when working with Linux systems.
+
+I followed the examples in the Linux book and reviewed 
+additional explanations from The Missing Semester. 
+These topics helped me understand how users can monitor 
+and control processes directly from the terminal.
