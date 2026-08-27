@@ -1,0 +1,13 @@
+On the twenty-fourth day of my internship, I studied package management 
+in Ubuntu. I read the relevant sections from the Linux book and learned
+about the purpose of package managers and software repositories.
+
+I focused on the apt package manager and studied commonly used 
+commands such as apt update, apt install, and apt remove. 
+I learned the difference between updating the package 
+information and installing or removing software packages.
+
+I also reviewed Ubuntu documentation about package management 
+to understand the process more clearly. This topic helped me
+understand how software can be installed and managed efficiently
+through the Linux terminal.
