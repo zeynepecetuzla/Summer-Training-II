@@ -1,0 +1,13 @@
+On the twenty-fifth day of my internship, I started studying users 
+and groups in Linux. I read the related sections from the Linux book 
+and learned how Linux manages different users and groups on a system.
+
+I studied commands such as whoami, id, and groups and learned how 
+they can be used to obtain information about the current user and 
+group memberships. I also reviewed the /etc/passwd and /etc/group 
+files to understand where basic user and group information is stored.
+
+I connected these topics with the file permission concepts that 
+I had learned previously. Understanding users, groups, and 
+permissions helped me see how Linux controls access to files 
+and system resources.
