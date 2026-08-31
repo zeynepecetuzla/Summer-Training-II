@@ -1,0 +1,16 @@
+On the twenty-sixth day of my internship, I started studying 
+the basics of computer networking in a Linux environment. 
+I read the networking-related sections from the Linux book 
+and learned about IP addresses, ports, localhost, TCP, UDP, 
+and DNS.
+
+I also learned about the purpose of the ping command and
+reviewed how the localhost address is used to refer to the 
+local computer. In addition, I looked at the ip command and 
+studied how it can provide information about network interfaces 
+and IP addresses.
+
+These topics helped me understand the networking concepts that
+I had previously encountered while working with SSH 
+and OverTheWire. I also reviewed some additional Linux 
+networking resources to reinforce the information from the book.
