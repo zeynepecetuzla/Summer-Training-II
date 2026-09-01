@@ -1,0 +1,14 @@
+On the twenty-seventh day of my internship, I continued studying 
+networking with a focus on SSH. Since I had previously used SSH to 
+connect to the OverTheWire Bandit server, I wanted to understand
+the technology behind the connection in more detail.
+
+I studied the basic difference between public and private keys 
+and learned how SSH keys can be used for authentication. 
+I also read about the scp command and how it can be used to 
+transfer files between systems.
+
+I continued working on the Bandit challenges and reviewed 
+my previous SSH experience. This helped me understand that 
+SSH is not only a tool for completing the Bandit exercises 
+but also an important method for remotely managing Linux systems.
