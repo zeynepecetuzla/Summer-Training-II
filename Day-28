@@ -1,0 +1,15 @@
+On the twenty-eighth day of my internship, I focused on system 
+information and Linux logs. I read the relevant sections from the 
+Linux book and studied directories such as /var/log, where many 
+system and application logs are stored.
+
+I also learned about commands such as uname, df, du, and free. 
+These commands can provide information about the operating system, 
+disk usage, directory sizes, and memory usage. I reviewed their 
+basic purposes and followed examples from the book.
+
+In addition, I learned about journalctl and dmesg as tools for 
+examining system and kernel-related information. This gave me 
+a better understanding of how Linux administrators can investigate
+the state of a system.
+
