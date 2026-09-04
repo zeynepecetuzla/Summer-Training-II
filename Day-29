@@ -1,0 +1,13 @@
+On the twenty-ninth day of my internship, I started learning 
+how Git can be used from the Linux terminal. Since I had previously 
+used GitHub, I focused on understanding the basic Git workflow from 
+the command line.
+
+I studied commands such as git init, git status, git add, git commit, 
+and git log. I learned how changes are tracked and how commits can
+be used to keep a history of modifications in a project.
+
+I also reviewed how Git and Linux command-line tools can be used 
+together in software development. Working with Git from the 
+terminal helped me become more comfortable with command-line 
+based development workflows.
